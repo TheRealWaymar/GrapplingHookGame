@@ -1,9 +1,6 @@
 William Browne L00151905
 ----------------------------------------
-NOTE: cut the multiplayer aspect of the original design doc as we are covering that with the multiplayer CA anyway
-and no point repeating work.
-
-Instead this game focuses on FPS movement using grappling and swinging through an obstacle course to hit objects.
+This game focuses on FPS movement using grappling and swinging through an obstacle course to hit objects.
 
 FEATURES
 --------------------------------
