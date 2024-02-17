@@ -1,4 +1,4 @@
-William Browne L00151905
+William Browne
 ----------------------------------------
 This game focuses on FPS movement using grappling and swinging through an obstacle course to hit objects.
 
